@@ -3,3 +3,76 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1#header{
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bar{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#index{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+#property{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+#real{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+#market{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+#contact{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+#hud{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+figcaption{
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
